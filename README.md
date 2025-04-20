@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MeChat - Real-time Chat Application
 
 A full-stack real-time chat application built with React, Node.js, Express, and Socket.io.
@@ -102,3 +103,7 @@ This application is configured for deployment on Render. The `render.yaml` file 
 ## License
 
 This project is licensed under the MIT License.
+=======
+# MeChatApp
+A RealTime Messaging App
+>>>>>>> 084835a5576bf246f4c8bd3d819d52224b5f18ed
